@@ -4,7 +4,7 @@ window.addEventListener("load", () => {
         document.getElementById("loader"); 
 
     if (loader) {  
-        setTimeout(() => {ndjfnooOOkkkkkkkkikkikjkkllllkkhllhkkjkgjjhkllllllkckkkkkkkkkkkloolkkkkkkkkkkkckkkkkkkkkkuukkkkkkkkkiikkkllkkkllkkkkkgljjlkkkkkkllkgkkkkkllkhhjkkjjkkkkkkljjjjlddkkkkhhjssjkkjjggjkkkkkkkkjjkkhhhjjkkrkkjkkjhhhhgkkhhffgyjjhhhhjhijjgggghfhhfhhhhjhhdjjhggghhhdhhhhjjj
+        setTimeout(() => {ndjfnooOOkkkkkkkkikkikjkkkkllllkkhllhkkjkgjjhkllllllkckkkkkkkkkkkloolkkkkkkkkkkkckkkkkkkkkkuukkkkkkkkkiikkkllkkkllkkkkkgljjlkkkkkkllkgkkkkkllkhhjkkjjkkkkkkljjjjlddkkkkhhjssjkkjjggjkkkkkkkkjjkkhhhjjkkrkkjkkjhhhhgkkhhffgyjjhhhhjhijjgggghfhhfhhhhjhhdjjhggghhhdhhhhjjj
           loader.style.display = "none";
 
         }, 1000);
